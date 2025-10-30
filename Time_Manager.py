@@ -1,6 +1,6 @@
 """
-Professional Time Management App (Tkinter)
-Single-file Python 3 app.
+Time Management App (Tkinter)
+
 Features:
 - Task list (add / edit / delete)
 - Task fields: title, notes, due date, priority, est. duration, status
@@ -10,9 +10,6 @@ Features:
 - Pomodoro-style timer (configurable work/break lengths)
 - Progress bar showing completed tasks ratio
 - Notifications via messagebox and system beep
-
-Run: `python tk_time_manager.py`
-Requires: Python 3.8+ (no external dependencies)
 """
 
 import json
