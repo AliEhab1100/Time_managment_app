@@ -28,7 +28,7 @@ This tool combines a to-do list, a focus timer, and a real-time clock — all in
 🚀 How to Run the Project
 -------------------------------------------
 1. Clone the repository
-   git clone https://github.com/AliEhab1100/Time-management-app.git
+   git clone https://github.com/AliEhab1100/Time-managment-app.git
 
 2. Navigate to the project folder
    cd time-management-app
